@@ -6,6 +6,4 @@ Small and simple Python text editor in 354 lines. Includes: open, save, save as,
 
 ## Useage
 
-Download the [latest release](github.com/sourdust/peditor/releases/).
-
 Run ```python3 peditor.py```
